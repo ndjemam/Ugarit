@@ -1,4 +1,4 @@
-package com.example.mylibrary;
+package com.example.ndjemam.test;
 
 /**
  * Created by ndjemam on 12/01/2017.
